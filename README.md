@@ -31,6 +31,6 @@ Check `master` only and click `Finish`
 On the project, go to `src/main` and execture class `Main.java`. The GUI will open.
 
 ## Checking the code
-[Configure your Eclipse](https://github.com/jorjatorz/Pac-Man/wiki/%5BHOW-TO%5D-Configurar-Eclipse) so that the code looks good (UTF-8 and Unix line endings).
+[Configure your Eclipse](https://github.com/hecoding/Pac-Man/wiki/%5BHOW-TO%5D-Configurar-Eclipse) so that the code looks good (UTF-8 and Unix line endings).
 
-### [Meet the Docs](https://github.com/jorjatorz/Pac-Man/wiki)
+### [Meet the Docs](https://github.com/hecoding/Pac-Man/wiki)
