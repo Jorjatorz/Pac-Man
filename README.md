@@ -13,24 +13,24 @@ In this work we will show that this approach based on Grammatical Evolution gets
 #### [You can check out our slightly fancier website here](https://hecoding.github.io/Pac-Man/). It has the same content than this Readme plus some interactive graphs and example grammars.
 
 ## Publications
-+ ### [Undergraduate thesis](https://github.com/hecoding/Pac-Man/raw/thesis/Thesis_Pac-Man.pdf)
++ ### [Undergraduate thesis](https://github.com/jorjatorz/Pac-Man/raw/thesis/Thesis_Pac-Man.pdf)
 Detailed description of all the work behind this project (not completely in English, sorry).
 
-+ ### [Paper](https://github.com/hecoding/Pac-Man/raw/paper_cosecivi/Cosecivi17.pdf)
++ ### [Paper](https://github.com/jorjatorz/Pac-Man/raw/paper_cosecivi/Cosecivi17.pdf)
 Scientific article published on [CoSECiVi](http://gaia.fdi.ucm.es/sites/cosecivi17/index.html) (Spanish Society for VideoGame Sciences Conference) 2017.
 
 ## Downloading
 #### Using the command line
-`git clone https://github.com/hecoding/Pac-Man.git`
+`git clone https://github.com/jorjatorz/Pac-Man.git`
 #### From Eclipse or other IDE
 `File > Import > Git > Projects from Git > Clone URI`  
-Paste `https://github.com/hecoding/Pac-Man.git` in `URI` field  
+Paste `https://github.com/jorjatorz/Pac-Man.git` in `URI` field  
 Check `master` only and click `Finish`  
 
 ## Running
 On the project, go to `src/main` and execture class `Main.java`. The GUI will open.
 
 ## Checking the code
-[Configure your Eclipse](https://github.com/hecoding/Pac-Man/wiki/%5BHOW-TO%5D-Configurar-Eclipse) so that the code looks good (UTF-8 and Unix line endings).
+[Configure your Eclipse](https://github.com/jorjatorz/Pac-Man/wiki/%5BHOW-TO%5D-Configurar-Eclipse) so that the code looks good (UTF-8 and Unix line endings).
 
-### [Meet the Docs](https://github.com/hecoding/Pac-Man/wiki)
+### [Meet the Docs](https://github.com/jorjatorz/Pac-Man/wiki)
